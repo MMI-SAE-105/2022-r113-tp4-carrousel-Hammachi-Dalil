@@ -85,5 +85,11 @@ max-width width width
   }
 
   .actif {
-    
+
+  }
+
+  a {
+    text-decoration: none;
+    font-family: "Kanit"
+
   }
